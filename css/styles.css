@@ -1,0 +1,97 @@
+/* Header Styles */
+h1 {
+  font-size: 4rem;
+  margin-bottom: 1.4rem;
+  margin-left: 5px;
+}
+h2 {
+  margin-left: 45px;
+  font-size: 3.4rem;
+}
+
+/* Forum Styles */
+.input-field {
+  margin: 30px 15px;
+}
+button {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+.s12 {
+  margin-bottom: 0;
+}
+.s6 {
+  margin-top: 5px;
+}
+#error p {
+  color: FireBrick;
+  margin-left: 10px;
+}
+
+
+/* Feedback List Styles */
+.feedback-container {
+  width: 100%;
+  margin: 20px auto;
+}
+.feedback {
+  width: 100%;
+  margin: 15px auto;
+  text-align: center;
+  border-left: 9px solid MediumAquamarine;
+  background-color: WhiteSmoke;
+}
+.edit-btn {
+  display:flex;
+  justify-content:flex-end;
+  align-items:center;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+.date {
+  display: inline-block;
+  position: absolute;
+  right: 5px;
+  margin: 10px 5px 5px 5px;
+}
+.text {
+  margin: 15px 5px;
+  font-weight: 400;
+}
+.subject {
+  position: absolute;
+  left: 10%;
+  border: 1px solid black;
+  font-size: 1.2em;
+  font-weight: 500;
+  padding: 0 5px;
+  margin: 4px 0;
+}
+.title {
+  font-weight: 600;
+  font-size: 2em;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+}
+
+/* Admin Styles */
+.delete-btn {
+  position: relative;
+  left: 15%;
+}
+
+/* Admin Nav Styles */
+.nav {
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.credentialInfo {
+  margin: 15px 10px 20px 10px;
+}
