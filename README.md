@@ -1,6 +1,6 @@
 # UMSD-Forum
 
-A forum made for comments and discussion relating to the iOS game: 'Ultimate Monster Siege Defence'
+A forum made for comments and discussion relating to the iOS game: 'Ultimate Monster Siege Defence' available at http://www.patrickbiel.com/Forum/
 
 ## Features
 * MYSQL database
